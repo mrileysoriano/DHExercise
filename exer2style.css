@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: rgb(192, 227, 244);
+    text-align: center;
+  }
+  
+  p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
