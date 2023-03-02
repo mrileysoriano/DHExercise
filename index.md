@@ -3,7 +3,7 @@
 
 Thursday March 2nd, 2023 
 
-At the end of the class you can write here a final thought on the exercise and on the work that we have been doing so far. 
+As I will discuss down below, this was a great refresher! Excited to move on to Voyant!
 
 ## Links to the exercises done today 
 
