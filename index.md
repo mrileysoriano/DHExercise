@@ -14,4 +14,4 @@ As I will discuss down below, this was a great refresher! Excited to move on to 
 
 ## Comments or notes about problems 
 
-No comments. This was a great exercise to help brush up on my skills with the various systems and languages we have been working with. In my original HTML/CSS file, I wanted to separate my HTML into one file and create a second, linked CSS file. Although I was able to create the HTML and CSS file, the two did not link. I decided to simply write the CSS information into the HTML file but in future encounters with HTML and CSS I will write in a separate CSS file. 
+This was a great exercise to help brush up on my skills with the various systems and languages we have been working with. In my original HTML/CSS file, I wanted to separate my HTML into one file and create a second, linked CSS file. Although I was able to create the HTML and CSS file, the two did not link. I decided to simply write the CSS information into the HTML file but in future encounters with HTML and CSS I will write in a separate CSS file. 
