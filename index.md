@@ -10,7 +10,7 @@ As I will discuss down below, this was a great refresher! Excited to move on to 
 - [Link to my GitHub Repository for today](https://github.com/mrileysoriano/DHExercise) and [GitHub Pages](https://mrileysoriano.github.io/DHExercise/)
 - [Link to my HTML and CSS files](https://mrileysoriano.github.io/DHExercise/exercise2.html)
 - [Link to Pandoc transformations](https://github.com/mrileysoriano/DHExercise/blob/gh-pages/pandoc_transformations.zip)
-- [Link to my Bibliography](https://github.com/mrileysoriano/DHExercise/blob/gh-pages/bibliography2.html)
+- [Link to my Bibliography](https://mrileysoriano.github.io/DHExercise/bibliography2.html)
 
 ## Comments or notes about problems 
 
